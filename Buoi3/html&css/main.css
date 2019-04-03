@@ -1,0 +1,46 @@
+p {
+    color: #92467f;
+
+}
+
+.text-red, span {
+    color: #ff0000;
+}
+
+#top {
+    color: #00ffff;
+}
+
+input[type=email] {
+    background: #2786ac;
+}
+p.text-red {
+    background: #399476;
+}
+ul li {
+    color: #ff0000;
+}
+
+ul > li {
+    color: #bdd10c;
+}
+
+a:hover {
+    color: #00fa0c;
+}
+img:hover {
+    
+}
+
+/* chan la old le la even */
+/*
+ul li: :nth-child(odd)
+ul li: :nth-child(even) 
+*/
+#background {
+    background-color: #00fa0c;
+    background-image: url("https://danongonline.com.vn/wp-content/uploads/2018/02/anh-girl-xinh-ha-noi-6.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
